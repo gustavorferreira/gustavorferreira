@@ -1,15 +1,16 @@
 ## 🤙 Good morning, good afternoon and good night. Welcome to my profile! ✌️  
 
-Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to take on new challenges 🕵 and I am still organized, proactive and innovative. 
+Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 and I am able to take on new challenges 🕵 and I am still organized, proactive and innovative. 
 
 ## 👀 Some more details below:
 
 - 📌 From Valparaíso de Goiás, Goiás, Brazil 🇧🇷
 - 🎓 Masters Degree in Cyber Security - UDF 2020/2022
 - 🎓 Technologist in Systems Analysis and Development – UDF 2017/2019
-- 🎮 I love FPS and strategy PC games
+- 👨‍👩‍👧‍👦 Super married and 2 princess daughters. ❤️
+- 🎮 I love FPS and strategy PC games 
 
-## 💪 Currently working as 💼:
+## 💪 Currently working as: 💼
 
 * 🤖 Full Stack Developer at SEEDF
 
@@ -26,11 +27,11 @@ Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to 
 
 ## 🔥 Some projects on air:
 
-- 👁 https://matriculahomolog.se.df.gov.br/
-- 👁 https://dfnoponto.semob.df.gov.br/
-- 👁 https://mobilidade.brb.com.br/passelivre/
+- ⭐️ https://matriculahomolog.se.df.gov.br/
+- ⭐️ https://dfnoponto.semob.df.gov.br/
+- ⭐️ https://mobilidade.brb.com.br/passelivre/
 
-## 🔍 It's easy to find me
+## 🔍 It's easy to find me: 🔎
 
 * https://www.linkedin.com/in/gustavo-r-ferreira-a98429215/
 * https://www.facebook.com/grf.bsb/
