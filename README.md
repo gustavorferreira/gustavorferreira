@@ -7,15 +7,15 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 
 ## 👀 Some more details below:
 
-- 📌 From Valparaíso de Goiás, Goiás, Brazil 🇧🇷
-- 🎓 Masters Degree in Cyber Security - UDF 2020/2022
-- 🎓 Technologist in Systems Analysis and Development – UDF 2017/2019
-- 👨‍👩‍👧‍👦 Super married and 2 princess daughters. ❤️
-- 🎮 I love FPS and strategy PC games 
+- 📌 From Valparaíso de Goiás, Goiás, Brazil; 🇧🇷
+- 🎓 Masters Degree in Cyber Security - UDF 2020/2022;
+- 🎓 Technologist in Systems Analysis and Development – UDF 2017/2019;
+- 👨‍👩‍👧‍👦 Super married and 2 princess daughters; ❤️
+- 🎮 I love FPS and strategy PC games.
 
 ## 💪 Currently working as: 💼
 
-* 🤖 Full Stack Developer at <a target="_blank" href="http://www.educacao.df.gov.br/">SEEDF<a/>
+* 🤖 Full Stack Developer at <a target="_blank" href="http://www.educacao.df.gov.br/">SEEDF<a/>.
 
 ## ☕ My skills and knowledge:
 
@@ -37,9 +37,9 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
     
 ## 🔥 Some projects on air:
 
-- ⭐️ https://matriculahomolog.se.df.gov.br/ 🚸 🏫 (public school student enrollment system)
-- ⭐️ https://dfnoponto.semob.df.gov.br/ 🧭 🚌 (real-time public transport system)
-- ⭐️ https://mobilidade.brb.com.br/passelivre/ 🎟 🚌 🚉 (ticketing system for public transport)
+- ⭐️ https://matriculahomolog.se.df.gov.br/ 🚸 🏫 (public school student enrollment system);
+- ⭐️ https://dfnoponto.semob.df.gov.br/ 🧭 🚌 (real-time public transport system);
+- ⭐️ https://mobilidade.brb.com.br/passelivre/ 🎟 🚌 🚉 (ticketing system for public transport);
 
 ## 🔍 It's easy to find me: 🔎
 
