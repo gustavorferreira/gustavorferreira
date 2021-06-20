@@ -33,6 +33,8 @@ Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to 
 ## It's easy to find me
 
 * https://www.linkedin.com/in/gustavo-r-ferreira-a98429215/
+* https://www.facebook.com/grf.bsb/
+* https://www.facebook.com/grf.bsb/
 * +55 (61) 98654-6852
 * grf.bsb@gmail.com
 
