@@ -37,9 +37,9 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
     
 ## 🔥 Some projects on air:
 
-- ⭐️ https://matriculahomolog.se.df.gov.br/ (public school student enrollment system)
-- ⭐️ https://dfnoponto.semob.df.gov.br/ (real-time public transport system)
-- ⭐️ https://mobilidade.brb.com.br/passelivre/ (ticketing system for public transport)
+- ⭐️ https://matriculahomolog.se.df.gov.br/ 🚸 (public school student enrollment system)
+- ⭐️ https://dfnoponto.semob.df.gov.br/ 🚌 (real-time public transport system)
+- ⭐️ https://mobilidade.brb.com.br/passelivre/ 🎟 🚌 🚉 (ticketing system for public transport)
 
 ## 🔍 It's easy to find me: 🔎
 
