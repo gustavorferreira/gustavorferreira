@@ -10,7 +10,7 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 - 📌 From Valparaíso de Goiás, Goiás, Brazil; 🇧🇷
 - 🎓 Masters Degree in Cyber Security - UDF 2020/2022;
 - 🎓 Technologist in Systems Analysis and Development – UDF 2017/2019;
-- 👨‍👩‍👧‍👦 Super married and 2 princess daughters; ❤️
+- 👨‍👩‍👧‍👦 Super married and father of 2 princesses; ❤️
 - 🎮 I love FPS and strategy PC games.
 
 ## 💪 Currently working as: 💼
