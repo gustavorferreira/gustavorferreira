@@ -32,7 +32,7 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 - ⭐️ https://mobilidade.brb.com.br/passelivre/
 
 ## 🔍 It's easy to find me: 🔎
-
+<div align="center">
 <a href="https://www.linkedin.com/in/gustavo-r-ferreira-a98429215/" rel="nofollow" target="_blank">
     <img src="https://camo.githubusercontent.com/ecfc63b4660f6304624766db1d09fe1b520e58659783a5ec8449323c04ef2023/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"> 
 </a>
@@ -45,6 +45,13 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 <a href="https://www.instagram.com/grf.devops/" rel="nofollow" target="_blank">
     <img src="https://camo.githubusercontent.com/cacf31b89037c56f31fe280a0c9d27f2966bb544747de670b5c73a2d656e952e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2532302d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width:100%;">
 </a>
+</div>
+
+
+## 📊 My Project Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorferreira&show_icons=true&theme=radical)
+
 
 <!---
 gustavorferreira/gustavorferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
