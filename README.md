@@ -12,7 +12,7 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 
 ## 💪 Currently working as: 💼
 
-* 🤖 Full Stack Developer at SEEDF
+* 🤖 Full Stack Developer at <a target="_blank" href="http://www.educacao.df.gov.br/">SEEDF<a/>
 
 ## ☕ My skills and knowledge:
 
