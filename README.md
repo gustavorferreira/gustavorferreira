@@ -1,25 +1,19 @@
-- 👋 Hi, I’m @gustavorferreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🤙 Good morning, good afternoon and good night. Welcome to my profile! ✌️  
 
-## 👋 Good morning, good afternoon and good night. Welcome to my profile! 👋  
-
-Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to take on new challenges and I am still organized, proactive and innovative. 
+🇧🇷 Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to take on new challenges and I am still organized, proactive and innovative. 
 
 ## 👀 Some more details below:
 
-- 📫 From Valparaíso de Goiás, Goiás, Brazil 
-- Masters Degree in Cyber Security - UDF 2020/2022
-- Technologist in Systems Analysis and Development – UDF 2017/2019
-- Love FPS and Strategy games
+- 📌studies From Valparaíso de Goiás, Goiás, Brazil 
+- 👨‍🎓 Masters Degree in Cyber Security - UDF 2020/2022
+- 👨‍🎓 Technologist in Systems Analysis and Development – UDF 2017/2019
+- 🎮 I love FPS and strategy PC games
 
-## 🌱 Currently working as:
+## 💪 Currently working as 💼:
 
 * Full Stack Developer at SEEDF
 
-## 💞️ My skills and knowledge:
+## ☕ My skills and knowledge:
 
 * Javascript;
 * Jquery;
@@ -29,6 +23,10 @@ Hello my name is Gustavo Ferreira, I am a full stack developer and I am able to 
 * PostgresSQL;
 * SVN/GIT;
 * Linux: Debian and CentOS;
+
+## 🔥 Some projects on air:
+
+- 👁 https://matriculahomolog.se.df.gov.br/
 
 ## It's easy to find me
 
