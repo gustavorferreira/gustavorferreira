@@ -37,7 +37,8 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
     
 ## 🔥 Some projects on air:
 
-- ⭐️ https://ieducar.se.df.gov.br/ 🚸 🏫 (public school student enrollment system);
+- ⭐️ https://festic.se.df.gov.br/
+- ⭐️ https://ieducar.se.df.gov.br/;
 - ⭐️ https://matricula.se.df.gov.br/ 🚸 🏫 (public school student enrollment system);
 - ⭐️ https://dfnoponto.semob.df.gov.br/ 🧭 🚌 (real-time public transport system);
 - ⭐️ https://mobilidade.brb.com.br/passelivre/ 🎟 🚌 🚉 (ticketing system for public transport);
