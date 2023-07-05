@@ -16,7 +16,7 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 ## 💪 Currently working as: 💼
 
 * 🤖 System analyst at <a target="_blank" href="https://www.saude.df.gov.br/">SESDF<a/>.
-* 🤖 Software Engineer Pleno at <a target="_blank" href="https://www.take.net/">Take Blip<a/>.
+* 🤖 Software Engineer Senior at <a target="_blank" href="https://www.take.net/">Take Blip<a/>.
 * 🤖 Full Stack Developer at <a target="_blank" href="http://www.educacao.df.gov.br/">SEEDF<a/>.
 
 ## ☕ My skills and knowledge:
