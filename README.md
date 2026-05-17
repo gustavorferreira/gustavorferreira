@@ -72,9 +72,6 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
   <a target="_blank" href="https://www.linkedin.com/in/gustavo-ribeiro-ferreira-2a91b040a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a target="_blank" href="https://wa.me/5561986546852?text=ol%C3%A1%20vim%20do%20github.......">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
   <a target="_blank" href="https://github.com/gustavorferreira">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
