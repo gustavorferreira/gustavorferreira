@@ -80,14 +80,6 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 </div>
 
 
-## 📊 My Project Statistics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavorferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gustavo's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorferreira&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
 <!---
 gustavorferreira/gustavorferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
