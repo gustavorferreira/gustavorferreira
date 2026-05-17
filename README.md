@@ -63,9 +63,6 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 ## 🔍 It's easy to find me: 🔎
 
 <div align="center">
-## 🔍 It's easy to find me: 🔎
-
-<div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gustavo-ribeiro-ferreira-2a91b040a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
