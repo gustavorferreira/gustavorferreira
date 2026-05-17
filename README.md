@@ -82,7 +82,10 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 
 ## 📊 My Project Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorferreira&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavorferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gustavo's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorferreira&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 
 <!---
