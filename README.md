@@ -54,7 +54,7 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 </div>
 
 ### 🛠️ Practices & Architecture
-* **Architecture & Patterns:** Micro Frontends, Clean Code, SOLID, POO, MVC & RESTful APIs.
+* **Architecture & Patterns:** Micro Frontends, Micro service, Clean Code, SOLID, POO, MVC & RESTful APIs.
 * **Testing:** Acceptance & Unit Testing (Testes de Aceitação e Unitários).
 * **Observability:** Traceability via SEQS & Grafana.
 * **Version Control:** Git & SVN.
