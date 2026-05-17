@@ -53,10 +53,10 @@ Hello my name is Gustavo Ferreira 😉 🤝, I am a full stack developer 📗 an
 </div>
 
 ### 🛠️ Practices & Architecture
-* [cite_start]**Architecture & Patterns:** Clean Code, SOLID, POO, MVC & RESTful APIs. [cite: 6, 60, 65]
-* [cite_start]**Testing:** Acceptance & Unit Testing (Testes de Aceitação e Unitários). [cite: 61]
-* [cite_start]**Observability:** Traceability via SEQS & Grafana. [cite: 67]
-* [cite_start]**Version Control:** Git & SVN. [cite: 70]
+* **Architecture & Patterns:** Micro Frontends, Clean Code, SOLID, POO, MVC & RESTful APIs.
+* **Testing:** Acceptance & Unit Testing (Testes de Aceitação e Unitários).
+* **Observability:** Traceability via SEQS & Grafana.
+* **Version Control:** Git & SVN.
     
 ## 🔥 Some projects on air:
 - ⭐️ https://ieducar.se.df.gov.br/ 🚸 🏫 (manages enrollment of students from the federal district's public network);
